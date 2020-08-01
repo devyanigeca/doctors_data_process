@@ -1,5 +1,5 @@
 pandas==0.25.1
-django==2.0
+django==2.2.13
 xlsxwriter
 gunicorn
 django-heroku
